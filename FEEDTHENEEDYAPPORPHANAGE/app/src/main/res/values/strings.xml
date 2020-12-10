@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FEEDTHENEEDYAPPORPHANAGE</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="update">update</string>
+    <string name="donate">Button</string>
+    <string name="donate1">Donate</string>
+    <string name="enter_food_type">Enter Food Type</string>
+</resources>
